@@ -3,8 +3,8 @@
         "name": "Cave Dweller",
         "type": "Pantheon",
         "uniques": [
-            "[+5 Production, -2 Manpower] from every [Iron]",
-            "[+3 Production, +3 Faith, -2 Manpower] from every [Mine]",
+            "[+5 Production, -5 Gold] from every [Iron]",
+            "[+3 Production, +3 Faith, -2 Gold] from every [Mine]",
         ]
   },
   {
