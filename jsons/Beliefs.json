@@ -1,11 +1,12 @@
- [
+[
   {
         "name": "Miner",
         "type": "Pantheon",
         "uniques": [
             "[+3 Production] from every [Iron]",
-            "[+1 Production, +2 Faith] from every [Mine]",
+            "[+1 Production, +3 Faith] from every [Mine]",
           "[+1 Science] from every [Copper]",
           "[+5 Gold] from every [Gold]",
         ]
-    ]
+  }
+]
