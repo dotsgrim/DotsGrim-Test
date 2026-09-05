@@ -1,12 +1,17 @@
 [
   {
-        "name": "Miner",
+        "name": "Cave Dweller",
         "type": "Pantheon",
         "uniques": [
-            "[+3 Production] from every [Iron]",
-            "[+1 Production, +3 Faith] from every [Mine]",
-          "[+1 Science] from every [Copper]",
-          "[+5 Gold] from every [Gold]",
+            "[+5 Production, -2 Manpower] from every [Iron]",
+            "[+3 Production, +3 Faith, -2 Manpower] from every [Mine]",
+        ]
+  },
+  {
+        "name": Whale Hunting",
+        "type": "Pantheon",
+        "uniques": [
+            "[+5 Food, -3 Happiness] from every [Whale]"
         ]
   }
 ]
