@@ -3,23 +3,26 @@
         "name": "Cave Dweller",
         "type": "Pantheon",
         "uniques": [
-            "[-1 Happiness, +4 Science] from every [Quarry] <before the [Edo period]>",
-            "[-2 Happiness, +7 Science] from every [Silver] <before the [Meiji era]>",
-            "[+2 Production, +2 Faith] from every [Mine] <before the [Edo period]>",
-            "[+3 Faith, +2 Gold] from every [Gold Ore] <before the [Meiji era]>",
-            "[+3 Faith, +2 Gold] from every [Gems] <before the [Meiji era]>",
+            "[+1 Science] from every [Quarry] <before the [Edo period]>",
+            "[+2 Science] from every [Silver] <before the [Meiji era]>",
+            "[+1 Production, +2 Faith] from every [Mine] <before the [Edo period]>",
+            "[+2 Faith, +2 Gold] from every [Gold Ore] <before the [Meiji era]>",
+            "[+2 Faith, +2 Gold] from every [Gems] <before the [Meiji era]>",
             "[+2 Faith] from every [Copper] <before the [Meiji era]>",
-            "[+5 Production, -3 Gold] from every [Mine] <starting from the [Edo period] era> <before the [Meiji era]>"
+            "[+4 Gold] from every [Salt] <before the [Meiji era]>",
+            "[+3 Production, -3 Gold] from every [Mine] <starting from the [Edo period] era> <before the [Meiji era]>"
         ]
   },
   {
         "name": "Hollowed Sect",
         "type": "Founder",
         "uniques": [
-            "[+5 Science, +3 Culture, +3 Production, +2 Faith] from every [4] global followers [in foreign cities]",
-            "[+2 Happiness] from every [10] global followers [in foreign cities]",
-            "[+3 Production, +3 Science] from every [Mine] <starting from the [Meiji era]>",
-            "[+15]% Production in all cities connected to capital <starting from the [Meiji era]>"
+            "[+3 Science, +3 Culture, +3 Production] from every [4] global followers [in foreign cities]",
+            "[+1 Happiness] from every [10] global followers [in foreign cities]",
+            "[+3 Gold] from every [5] global followers [in all cities] <starting from the [Modern era]>",
+            "[+2 Production, +3 Science] from every [Mine] <starting from the [Meiji era]>",
+            "[+15]% Production in all cities connected to capital <starting from the [Meiji era]>",
+            "[+20]% Gold in all cities connected to capital <starting from the [Modern era]>"
     ]
   },
   {
@@ -27,7 +30,7 @@
         "type": "Pantheon",
         "uniques": [
             "[+2 Food] from every [Whale] <before the [Meiji era]>",
-            "[+5 Food, -4 Happiness] from every [Whale] <starting from the [Modern era]>"
+            "[+5 Food, -5 Gold, -2 Faith] from every [Whale] <starting from the [Modern era]>"
         ]
   }
 ]
