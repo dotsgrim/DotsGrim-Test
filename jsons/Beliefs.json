@@ -8,7 +8,8 @@
             "[+2 Production, +2 Faith] from every [Mine] <before the [Edo period]>",
             "[+3 Faith, +2 Gold] from every [Gold Ore] <before the [Meiji era]>",
             "[+3 Faith, +2 Gold] from every [Gems] <before the [Meiji era]>",
-            "[+5 Production, -1 Gold] from every [Mine] <after the [Edo period] era> <before the [Meiji era]>"
+            "[+2 Faith] from every [Copper] <before the [Meiji era]>",
+            "[+5 Production, -3 Gold] from every [Mine] <starting from the [Edo period] era> <before the [Meiji era]>"
         ]
   },
   {
