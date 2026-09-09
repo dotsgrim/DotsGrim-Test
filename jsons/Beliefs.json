@@ -3,18 +3,19 @@
         "name": "Cave Dweller",
         "type": "Pantheon",
         "uniques": [
-            "[+2 Production, +3 Faith] from every [Mine]",
+            "[+1 Production, +3 Faith] from every [Mine] <before the [Edo period]>",
             "[+2 Production, +2 Faith, -3 Gold] from every [Mine] <starting from the [Edo period]> <before the [Meiji era]>",
-            "[+10 Gold, +5 Science] [in capital] <before the [Edo period]>"
+            "[+5 Production, +5 Gold, +5 Science, -2 Food] [in capital] <before the [Edo period]>"
         ]
   },
   {
         "name": "Hollowed Sect",
         "type": "Founder",
         "uniques": [
-            "[+15 Production, +10 Faith] from every [5] global followers [in foreign cities]",
-            "[+20 Gold] from every [5] global followers [in foreign cities] <starting from the [Modern era]>",
-            "[+30 Science] from every [Mine] <starting from the [Meiji era]>",
+            "[+5 Production, +2 Faith] from every [3] global followers [in foreign cities]",
+            "[+12 Gold] from every [10] global followers [in foreign cities] <starting from the [Modern era]>",
+            "[+3 Happiness] from every [10] global followers [in foreign cities] <starting from the [Present era]>",
+            "[+2 Production] from every [Mine] <starting from the [Meiji era]>",
             "[+15]% Production in all cities connected to capital <starting from the [Meiji era]>",
     ]
   },
